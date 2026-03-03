@@ -42,11 +42,10 @@ This project was developed for **GoldenHour**, a luxury watch retail company bas
 
 ---
 
-### 📂 File Structure Guide
-* **`control.java`**: The core engine of the system (Main logic).
-* **`Login.java`, `Stock.java`, `Sale.java`**: Backend modules handling specific business logic.
-* **`*View.java`**: All GUI-related components and window designs.
-* **`*.txt`**: Database simulation files (Attendance, Sales, and Inventory records).
+### 📂 Project Structure
+- **/backend**: Core business logic and system controllers.
+- **/gui**: Java Swing/JavaFX view components and UI design.
+- **/data**: Persistent storage files (CSV/TXT) for database simulation.
 
 ---
 
