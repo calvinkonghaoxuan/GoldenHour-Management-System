@@ -1,0 +1,10 @@
+================================
+Date      : 2026-01-11
+Time      : 15:36:22.030592900
+Employee  : C6001 (Tan Guan Han)
+Outlet    : C60
+Items Purchased:
+dh x3 @ RM23.0 = RM69.0
+Subtotal  : RM69.0
+================================
+

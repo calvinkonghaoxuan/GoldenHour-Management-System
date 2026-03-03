@@ -1,0 +1,32 @@
+2025-12-31,ali,dhdh,3,696.0,cash
+2026-01-02,ali,dhdh,2,464.0,cash
+2026-01-05,ahh,dhdh,3,696.0,cash
+2026-01-08,hh,dhdh,3,696.0,cah
+Outlet: C60  Total: RM69.0  Paid: RM69.0
+dh x 3
+-----
+Outlet: C60  Total: RM69.0  Paid: RM69.0
+dh x 3
+-----
+Outlet: C60 | Total: RM23.0 | Payment method: Cash
+dh x 1
+-----
+Buyer: chai | Outlet: C60 | Payment method: cash
+dh x 1
+-----
+================================
+Date      : 2026-01-12
+Time      : 15:27:52.613292700
+Employee  : null (null)
+Outlet    : C63
+Buyer     : cash
+Payment   : chai
+Items Purchased:
+================================
+Date      : 2026-01-12
+Time      : 15:34:20.780480900
+Employee  : null (null)
+Outlet    : C60
+Buyer     : chai
+Payment   : cash
+Items Purchased:

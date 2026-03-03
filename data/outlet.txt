@@ -1,0 +1,11 @@
+C60,KLCC Outlet
+c61,Mid Valley Outlet
+C62,Sunway Velocity Outlet
+C63,IOI City Mall Outlet
+C64,Lalaport Outlet
+C65,KL East Mall Outlet
+C66,Nu Sentral Outlet
+C67,Pavilion KL Outlet
+C68,U1 Shopping Outlet
+C69,MyTown Outlet
+C70,HQ

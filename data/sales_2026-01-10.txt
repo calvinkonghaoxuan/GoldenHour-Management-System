@@ -1,0 +1,36 @@
+================================
+Date      : 2026-01-10
+Time      : 11:47:20.737320800
+Employee  : C6002 (Adam bin Abu)
+Customer  : hh
+Items Purchased:
+dh x3 = RM69.0
+Payment   : cash
+Subtotal  : RM69.0
+================================
+
+================================
+Date      : 2026-01-10
+Time      : 21:46:48.216124
+Employee  : C6001 (Tan Guan Han)
+Outlet    : c60
+Customer  : dh
+Items Purchased:
+dh x4 @ RM23.0 = RM92.0
+Payment   : cash
+Subtotal  : RM92.0
+================================
+
+================================
+Date      : 2026-01-10
+Time      : 21:50:38.960537800
+Employee  : C6001 (Tan Guan Han)
+Outlet    : c60
+Customer  : dhh
+Items Purchased:
+dh x3 @ RM23.0 = RM69.0
+dh x3 @ RM23.0 = RM69.0
+Payment   : cash
+Subtotal  : RM138.0
+================================
+

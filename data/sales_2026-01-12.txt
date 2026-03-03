@@ -1,0 +1,24 @@
+================================
+Date      : 2026-01-12
+Time      : 15:21:41.988593800
+Employee  : null (null)
+Outlet    : C60
+Buyer     : cash
+Payment   : chai
+Items Purchased:
+dh x1 @ RM23.0 = RM23.0
+Subtotal  : RM23.0
+================================
+
+================================
+Date      : 2026-01-12
+Time      : 15:49:29.190881700
+Employee  : C6001 (Tan Guan Han)
+Outlet    : C60
+Buyer     : chai
+Payment   : cash
+Items Purchased:
+dh x1 @ RM23.00 = RM23.00
+Subtotal  : RM23.00
+================================
+
